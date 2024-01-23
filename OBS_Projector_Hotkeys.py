@@ -1,6 +1,4 @@
 # OBS-Studio python scripts
-# Copyright (C) 2018 IBM
-# Copyright (C) 2018 Jim
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -15,7 +13,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# helloworld.py
+# OBS_Projector_Hotkeys.py
 # Exposes hotkeys for showing Windowed and Fullscreen Projector (Preview)
 
 import obspython as obs
